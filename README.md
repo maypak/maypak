@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahoy!%20😎&fontSize=50&animation=twinkling)
-
-
-
 <h2 align="center">
   Hi, I'm May! 👋
 </h2>
@@ -11,24 +7,6 @@
   </a>
 </div>
   
-<h3 align="center"> 
-  <br/>
-  In 🇬🇧 From 🇰🇷 
-  <br/>
-  6+ years experienced Backend Engineer in various startup companies!
-  <br/>
-  Leadership and entrepreneurship is my 🧬
-  <br/>
-  <br/>
-  Love ☕️💬. 
-  <br/>
-  My door is open for everyone. 
-  <br/>
-  Please hit me up!💥
-  <br/>
-  <br/>
-</h3>
-
 </br>
 
 <div align=center>
